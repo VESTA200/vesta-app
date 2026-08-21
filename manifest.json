@@ -1,0 +1,16 @@
+{
+  "name": "V.E.S.T.A — المساعد الذكي",
+  "short_name": "V.E.S.T.A",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050a0f",
+  "theme_color": "#050a0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
